@@ -20,6 +20,25 @@
   <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge" />
 </p>
 
+
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Cloudflare_Logo.svg/512px-Cloudflare_Logo.svg.png" width="120" alt="Cloudflare Logo">
+</p>
+
+<h1 align="center">🔗✨ Cloudflare Workers URL Shortener</h1>
+
+<p align="center">
+  <b>Minimal, lightning-fast, serverless URL shortener</b><br />
+  Built with <a href="https://developers.cloudflare.com/workers/">Cloudflare Workers</a> + <a href="https://developers.cloudflare.com/workers/platform/namespaces/">KV Namespace</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Deploy-Cloudflare-orange?style=for-the-badge&logo=cloudflare" />
+  <img src="https://img.shields.io/badge/TypeScript-Used-blue?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge" />
+</p>
+
 ---
 
 ## 🌟 Features
