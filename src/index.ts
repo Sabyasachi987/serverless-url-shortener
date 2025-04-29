@@ -19,7 +19,7 @@ Key: "xyz789"  → Value: "https://google.com
 Cloudflare automatically injects URLS into env, so we can use env.URLS in our code to store and retrieve URLs." */
 
 
-console.log("WORKER FILE LOADED");
+
 
 
 export interface Env{
